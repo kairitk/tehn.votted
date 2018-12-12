@@ -5,3 +5,14 @@
     iga arvamise kohta peaks laekuma informatsioon, kas pakkumine oli liiga kõrge või liiga madal
     mäng lõppeb, kui arvatakse õigesti või katsed saavad otsa
 
+
+
+html failis: 
+1) vajan input ja submit kohta, kus mängija saab sisestada numbrit.
+2) kohta, kus kuvada arvamise tulemusi
+
+js failis:
+1) genereerib suvalise numbri 1 kuni 100-ni ja salvesatab selle muutuja sisse
+2) võtab html-is mängija poolt sisestatud numbri ja võrdleb seda muutuja sisse salvestatud numbriga
+
+
