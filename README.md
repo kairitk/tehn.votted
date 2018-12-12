@@ -1,0 +1,2 @@
+# tehn.votted
+Tehnilised võtted
