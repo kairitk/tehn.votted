@@ -1,1 +1,7 @@
+Ülesanne 1 Luua numbriarvamise mäng, mis...
+
+    valib suvalise numbri 1 ja 100 vahel
+    laseb kasutajal valida 5 korda, väljastades eelnevalt valitud numbrid
+    iga arvamise kohta peaks laekuma informatsioon, kas pakkumine oli liiga kõrge või liiga madal
+    mäng lõppeb, kui arvatakse õigesti või katsed saavad otsa
 
